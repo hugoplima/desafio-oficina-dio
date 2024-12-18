@@ -1,4 +1,4 @@
-# Desafio de Projeto da DIO - **Construa um Projeto Lógico de Banco de Dados do Zero(OFICINA)**
+# Desafio de Projeto da DIO - **Construa um Projeto Lógico de Banco de Dados do Zero (OFICINA)**
 #### Projeto proposto no Suzano na plataforma [DIO.](https://www.dio.me/)
 
 O projeto foi feito baseado em uma OFICINA fictícia que criamos em outro projeto na plataforma dio também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench 8.0 CE conforme orientado pela professora que ministra o curso.
